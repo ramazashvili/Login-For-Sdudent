@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "ramaza432@mail.ru",
+      "email": "ramaza432@mail.ru",
+      "mobile": "ramaza432@mail.ru",
+      "city": "ramaza432@mail.ru"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
